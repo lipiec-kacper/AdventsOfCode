@@ -1,0 +1,1 @@
+/Users/home/Documents/Info/AdventOfCode/2024/d1/target/debug/d1: /Users/home/Documents/Info/AdventOfCode/2024/d1/src/first_part.rs /Users/home/Documents/Info/AdventOfCode/2024/d1/src/main.rs /Users/home/Documents/Info/AdventOfCode/2024/d1/src/second_part.rs
